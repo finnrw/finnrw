@@ -12,7 +12,7 @@ I love science and I love humanity.
 
 ### Industry experience in:
 * Data Science
-* Data Architect
+* Data Architecture
 * Team Leadership
 * Project Management & Planning
 
