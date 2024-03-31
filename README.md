@@ -1,16 +1,23 @@
-### Hi there 👋
+## finnrw | *Finn Williams*
 
-<!--
-**finnrw/finnrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-diagnosed polymath.
 
-Here are some ideas to get you started:
+I love science and I love humanity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Visit my site: [finnrw.com](https://www.finnrw.com/)
+
+> / [about](https://www.finnrw.com/about)
+> / [articles](https://www.finnrw.com/articles)
+> / [projects](https://www.finnrw.com/projects)
+
+### Industry experience in:
+* Data Science
+* Data Architect
+* Team Leadership
+* Project Management & Planning
+
+### Interests:
+* Computational biology
+* The evolution of cultures and other stable structures found in complex systems
+* Fundemental physics
+* Math 
