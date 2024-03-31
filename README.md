@@ -6,7 +6,7 @@ I love science and I love humanity.
 
 ### Visit my site: [finnrw.com](https://www.finnrw.com/)
 
-> / [about](https://www.finnrw.com/about)
+> [about](https://www.finnrw.com/about)
 > / [articles](https://www.finnrw.com/articles)
 > / [projects](https://www.finnrw.com/projects)
 
