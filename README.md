@@ -4,7 +4,7 @@ Self-diagnosed polymath.
 
 I love science and I love humanity.
 
-### Visit my site: [finnrw.com](https://www.finnrw.com/)
+### Visit my site: [finnrw.com](https://www.finnrw.com/) (WIP)
 
 > [about](https://www.finnrw.com/about)
 > / [articles](https://www.finnrw.com/articles)
