@@ -1,4 +1,4 @@
-## finnrw | *Finn Williams*
+## finnrw | Finn Williams
 
 Self-diagnosed polymath.
 
