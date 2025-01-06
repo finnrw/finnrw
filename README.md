@@ -1,6 +1,6 @@
 ## finnrw | Finn Williams
 
-Self-diagnosed polymath
+Self-diganosed polymath and infodumper
 
 ### Industry experience in:
 * Data Science
@@ -10,6 +10,6 @@ Self-diagnosed polymath
 
 ### Interests:
 * Computational biology
-* The evolution of cultures and other stable structures found in complex systems
+* Complexity
 * Fundemental physics
-* Math 
+* Math
