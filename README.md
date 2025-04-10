@@ -1,15 +1,12 @@
 ## finnrw | Finn Williams
 
-Self-diganosed polymath and infodumper
-
-### Industry experience in:
-* Data Science
-* Data Architecture
-* Team Leadership
-* Project Management & Planning
+Math Enjoyer
 
 ### Interests:
-* Computational biology
-* Complexity
+* Complexity theory
+* Information theory
 * Fundemental physics
 * Math
+
+---
+![image](https://github.com/user-attachments/assets/8018db83-6679-47bc-9772-0b32e801891e)
