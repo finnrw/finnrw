@@ -1,12 +1,5 @@
-## finnrw | Finn Williams
-
+## Finn; `finnrw`
 Math Enjoyer
 
-### Interests:
-* Complexity theory
-* Information theory
-* Fundemental physics
-* Math
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/19119529-5af7-4dc3-928f-40f1b905aa25" />
 
----
-![image](https://github.com/user-attachments/assets/8018db83-6679-47bc-9772-0b32e801891e)
